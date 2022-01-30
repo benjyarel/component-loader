@@ -7,12 +7,11 @@ const emailServiceStyle = {
   width: '100%',
 };
 
-
 const featuresFlag = [''];
 
 const EmailService = () => {
 
-  const components = componentLoader({package: componentPackage, featuresFlag});
+  const components = componentLoader({componentPackage, featuresFlag});
 
 
   console.log( components)
