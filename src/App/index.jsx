@@ -1,6 +1,6 @@
 
-import PageService from "./features/PageService";
-import EmailService from "./features/EmailService";
+import PageService from "../features/PageService";
+import EmailService from "../features/EmailService";
 
 function App() {
   return (
