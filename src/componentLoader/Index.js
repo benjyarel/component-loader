@@ -1,8 +1,8 @@
 
-const componentLoader = ({package, featuresFlags}) => {
+const componentLoader = ({componentsPackage, featuresFlags}) => {
 
 
 };
 
 
-export componentLoader;
+export default componentLoader;
