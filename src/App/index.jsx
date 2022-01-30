@@ -5,8 +5,8 @@ import EmailService from "../features/EmailService";
 function App() {
   return (
    <>
-   <PageService />
-   <EmailService />
+    <PageService />
+    <EmailService />
    </>
   );
 }
